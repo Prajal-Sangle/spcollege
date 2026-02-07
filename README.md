@@ -1,5 +1,6 @@
 # spcollege
 This is my first git repository.
 <br>
-Author- Mr Prajal S
+<b>Author- Mr Prajal S</b>
+<br>
 Position- Asst. Prof.
